@@ -28,7 +28,7 @@ The project follows a **Medallion Architecture**:
 
 **External HTTP Source → Fabric Pipeline → Lakehouse → Bronze → Silver → Gold → Fabric Warehouse → Semantic Model → Power BI**
 
-![Project Architecture](Screenshots/01_Project_Architecture.png)
+![Project Architecture](Screenshots/01_Project_Architeture.png)
 
 ---
 
